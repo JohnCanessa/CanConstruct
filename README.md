@@ -8,7 +8,7 @@ This is a problem presented and solved in the above mentioned YouTube video.
 
 If interested in my comments I invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/06/03/can-construct/
 
 Remember that one of the best ways to learn is to read and experiment.
 
